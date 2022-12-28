@@ -1,2 +1,0 @@
-# bountybss
-hecks for bss
